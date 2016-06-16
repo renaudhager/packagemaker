@@ -20,4 +20,4 @@ The package will be available in the home directory.
 ## Limitation
 
 - It's only x86_64.
-- only for debian package?
+- only for debian package.
