@@ -1,0 +1,5 @@
+URL=http://apache.mirrors.pair.com/spark/spark-1.6.1/spark-1.6.1-bin-hadoop1-scala2.11.tgz
+PKG_NAME=spark
+VERSION=1.6.1
+ROOTDIR=/usr/local
+DESCRIPTION="Spark debian package for HADOOP"
